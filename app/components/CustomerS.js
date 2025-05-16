@@ -35,14 +35,14 @@ export default function CustomerS() {
             <div className='flex mt-4'>
                 <Image
                 alt='img'
-                src='/images/CustomerS/Mask Group (4).png'
+                src='/images/CustomerS/1.png'
                 width={50}
                 height={50}
                 />
 
                 <Image
                 alt='img'
-                src='/images/CustomerS/Mask Group (5).png'
+                src='/images/CustomerS/2.png'
                 width={50}
                 height={50}
                 className='-ml-4'
@@ -50,7 +50,7 @@ export default function CustomerS() {
 
                 <Image
                 alt='img'
-                src='/images/CustomerS/Mask Group (6).png'
+                src='/images/CustomerS/3.png'
                 width={50}
                 height={50}
                 className='-ml-4'
